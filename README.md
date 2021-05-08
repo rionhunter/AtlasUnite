@@ -1,4 +1,4 @@
-# AtlasUnite
+# Atlas Unite
 
 From cleaning up creeks to raising funds, and helping others in need, those who are able to donate their time towards something they believe in are the life and blood behind positive change in the world. However, the difference that’s being made, while amazing, is evidently still not enough. There are many people who want to contribute to greater things, but the ways in which we can give is too limited, especially given what modern technology and communication can allow.
 
@@ -18,4 +18,4 @@ With a strong impetus towards maintaining a fostering, inviting culture and envi
 
 This is also reflected in how Atlas Unite will cooperate with other charities and organisations, ensuring they have the facilities, equipment and volunteers they need to achieve their own missions. It’s not about Atlas Unite being responsible for the positive change, but ensuring the positive change is able to happen, through whatever means.
 
-As we prepare to launch in the last quarter of 2015, we hope to garner support from local communities and charities, as we will be able to provide so much in return. Atlas Unite has the potential to be the platform that sees charities, causes, organisations, businesses, families, friends and individuals come together for humanity's betterment.
+We hope to garner support from local communities and charities, as we will be able to provide so much in return. Atlas Unite has the potential to be the platform that sees charities, causes, organisations, businesses, families, friends and individuals come together for humanity's betterment.
